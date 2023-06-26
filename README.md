@@ -19,7 +19,7 @@ cp MyZshTheme/zsh-theme/hijack.zsh-theme ~/.oh-my-zsh/themes/hijack.zsh-theme
 Edit ```.zshrc``` to use this theme
 
 ```
-ZSH_THEME=**"hijack"**
+ZSH_THEME=<b>"hijack"</b>
 ```
 
 # Prerequisites
