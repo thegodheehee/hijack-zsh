@@ -27,3 +27,7 @@ ZSH_THEME=<b>"hijack"</b>
 [zsh](https://www.zsh.org/)
 
 [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
+
+# Screenshot(s)
+
+![image](https://github.com/thegodheehee/MyZshTheme/assets/68753611/d0fdba8e-3511-450f-80bf-784216ebc617)
