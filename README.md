@@ -1,4 +1,4 @@
-# MyZshTheme
+# hijack-zsh
 
 A zsh theme I made, mostly made for looks rather than git and github
 
