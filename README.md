@@ -31,7 +31,7 @@ ZSH_THEME=<b>"hijack"</b>
 Or, if you want to use the git version
 
 <pre>
-ZSH_THEME=<b>"hijack'</b>
+ZSH_THEME=<b>"hijack-git'</b>
 </pre>
 
 # Prerequisites
