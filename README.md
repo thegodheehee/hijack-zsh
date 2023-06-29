@@ -1,6 +1,6 @@
 # hijack-zsh
 
-A zsh theme I made, mostly made for looks rather than git and github
+A zsh theme I made, features git support
 
 # To install:
 
@@ -13,13 +13,25 @@ git clone https://github.com/thegodheehee/MyZshTheme.git
 Copy ```hijack.zsh-theme``` to your oh-my-zsh themes directory
 
 ```
-cp MyZshTheme/zsh-theme/hijack.zsh-theme ~/.oh-my-zsh/themes/hijack.zsh-theme
+cp hijack-zsh/zsh-theme/hijack.zsh-theme ~/.oh-my-zsh/themes/hijack.zsh-theme
+```
+
+Or, if you want to use the git version
+
+```
+cp hijack-zsh/zsh-theme/hijack-git.zsh-theme ~/.oh-my-zsh/themes/hijack-git.zsh-theme
 ```
 
 Edit ```.zshrc``` to use this theme
 
 <pre>
 ZSH_THEME=<b>"hijack"</b>
+</pre>
+
+Or, if you want to use the git version
+
+<pre>
+ZSH_THEME=<b>"hijack'</b>
 </pre>
 
 # Prerequisites
