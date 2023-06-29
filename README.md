@@ -42,4 +42,10 @@ ZSH_THEME=<b>"hijack-git'</b>
 
 # Screenshot(s)
 
-![image](https://github.com/thegodheehee/MyZshTheme/assets/68753611/d0fdba8e-3511-450f-80bf-784216ebc617)
+Non-git theme
+
+![image](https://github.com/thegodheehee/hijack-zsh/assets/68753611/c949f212-b93e-4030-8ec5-26c82ec20b78)
+
+Git support theme
+
+![image](https://github.com/thegodheehee/hijack-zsh/assets/68753611/17b7f0ad-3054-4779-8751-5779cbb721f9)
