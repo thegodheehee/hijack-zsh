@@ -7,7 +7,7 @@ A zsh theme I made, features git support
 Clone this repostory:
 
 ```
-git clone https://github.com/thegodheehee/MyZshTheme.git
+git clone https://github.com/thegodheehee/hijack-zsh.git
 ```
 
 Copy ```hijack.zsh-theme``` to your oh-my-zsh themes directory
