@@ -1,4 +1,4 @@
-PROMPT=$'%{\e[38;5;8m%}%B┌─[%b%{\e[38;5;8m%}%{$fg[yellow]%}%n%{$fg[red]%}@%{\e[38;5;8m%}%{$fg[yellow]%}%m%{\e[38;5;8m%}%B]%b%{\e[38;5;8m%} - %b%{\e[38;5;8m%}%B[%b%{$fg[yellow]%}%~%{\e[38;5;8m%}%B]%b%{\e[38;5;8m%} - %{\e[38;5;8m%}%B[%b%{$fg[yellow]%}%!%{\e[38;5;8m%}%B]%b%{\e[38;5;8m%}
-%{\e[38;5;8m%}%B└─%B[%{$fg[red]%}~%{\e[38;5;8m%}%B]%{\e[38;5;8m%}%b '
+PROMPT=$'%{$fg[black]%}%B┌─[%b%{$fg[black]%}%{$fg[yellow]%}%n%{$fg[red]%}@%{$fg[black]%}%{$fg[yellow]%}%m%{$fg[black]%}%B]%b%{$fg[black]%} - %b%{$fg[black]%}%B[%b%{$fg[yellow]%}%~%{$fg[black]%}%B]%b%{$fg[black]%} - %{$fg[black]%}%B[%b%{$fg[yellow]%}%!%{$fg[black]%}%B]%b%{$fg[black]%}
+%{$fg[black]%}%B└─%B[%{$fg[red]%}~%{$fg[black]%}%B]%{$fg[black]%}%b '
 RPROMPT='[%*]'
 PS2=$' \e[0;34m%}%B>%{\e[0m%}%b '
